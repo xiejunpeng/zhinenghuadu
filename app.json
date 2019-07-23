@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/shoye/shoye",
+    "pages/zhinengdaoyou/zhinengdaoyou",
+    "pages/zhiyouyizhangtu/zhiyouyizhangtu",
+    "pages/huaduhuodo/huaduhuodo",
+    "pages/wode/wode"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#CF5181",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#CF5181",
+    "backgroundColor": "#ffffff",
+    "color": "#c7c7c7",
+    "list": [
+      {
+        "pagePath": "pages/shoye/shoye",
+        "selectedIconPath": "/images/tab/shoye@.jpg",
+        "iconPath": "/images/tab/shoye.jpg",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/zhinengdaoyou/zhinengdaoyou",
+        "selectedIconPath": "/images/tab/zhinengdaoyou@.jpg",
+        "iconPath": "/images/tab/zhinengdaoyou.jpg",
+        "text": "智能导游"
+      },
+      {
+        "pagePath": "pages/huaduhuodo/huaduhuodo",
+        "selectedIconPath": "/images/tab/huaduhuodo@.jpg",
+        "iconPath": "/images/tab/huaduhuodo.jpg",
+        "text": "花都活动"
+      },
+      {
+        "pagePath": "pages/zhiyouyizhangtu/zhiyouyizhangtu",
+        "selectedIconPath": "/images/tab/zhiyouyizhangtu@.jpg",
+        "iconPath": "/images/tab/zhiyouyizhangtu.jpg",
+        "text": "智游一张图"
+      },
+      {
+        "pagePath": "pages/wode/wode",
+        "selectedIconPath": "/images/tab/wode@.jpg",
+        "iconPath": "/images/tab/wode.jpg",
+        "text": "我的"
+      }
+    ]
+  }
+}
