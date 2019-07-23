@@ -1,0 +1,7 @@
+.swiperbox{
+  height: 375rpx;
+}
+.swiperimage{
+  width: 750rpx;
+  height:375rpx;
+}

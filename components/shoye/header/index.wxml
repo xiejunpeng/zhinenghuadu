@@ -1,0 +1,8 @@
+<view class="header">
+  <image class="huayanhuadu" src="images/huayanhuadu.png" />
+  <view class="search-container">
+    <image class="icon" src="images/search.png" />
+    <input placeholder='搜索景区、资讯、攻略' class='bar' auto-focus="true" />
+  </view>
+  <image class="wendu" src="images/wendu.png" />
+</view>

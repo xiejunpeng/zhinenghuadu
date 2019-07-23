@@ -1,0 +1,14 @@
+<view class="info">
+  <image class="imageinfo" src="images/info.png"></image>
+  <view class="infoviwe">
+    <swiper class="infoswiper"  display-multiple-items="1" vertical="true" circular="true" autoplay="true" interval="6000">
+      <swiper-item>
+        <text class="infotext">火车上女子给老太太让座</text>
+      </swiper-item>
+      <swiper-item>
+        <text class="infotext">西红柿首富：花完10亿太简单</text>
+      </swiper-item>
+    </swiper>
+  </view>
+  <image class="iconright" src="../../../images/icon/iconright.jpg"></image>
+</view>

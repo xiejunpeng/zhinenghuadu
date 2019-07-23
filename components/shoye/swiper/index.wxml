@@ -1,0 +1,7 @@
+<view>
+<swiper class="swiperbox" indicator-dots="true" circular="true" autoplay="true" interval="6000" >
+<swiper-item><image class="swiperimage"  src="images/banner01.jpg"></image></swiper-item>
+<swiper-item><image class="swiperimage"  src="images/banner02.jpg"></image></swiper-item>
+<swiper-item><image class="swiperimage"  src="images/banner03.jpg"></image></swiper-item>
+</swiper>
+</view>

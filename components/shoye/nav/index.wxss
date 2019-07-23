@@ -1,0 +1,18 @@
+.container{
+  padding-bottom: 30rpx;
+}
+.description{
+  display: inline-flex;
+  flex-direction: column;
+  width: 25%;
+  align-items: center;
+}
+.icon{
+  width: 88rpx;
+  height: 88rpx;
+  padding:30rpx 0;
+}
+.icontext{
+  font-size: 25rpx;
+
+}

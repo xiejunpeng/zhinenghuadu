@@ -1,2 +1,5 @@
 <!--pages/shoye/shoye.wxml-->
-<text>pages/shoye/shoye.wxml</text>
+<v-header></v-header>
+<v-swiper></v-swiper>
+<v-nav></v-nav>
+<v-info></v-info>
