@@ -1,5 +1,9 @@
-<!--pages/shoye/shoye.wxml-->
-<v-header></v-header>
-<v-swiper></v-swiper>
-<v-nav></v-nav>
-<v-info></v-info>
+<view>
+  <v-header></v-header>
+  <v-swiper></v-swiper>
+  <v-nav></v-nav>
+  <v-info></v-info>
+  <v-iconTitle></v-iconTitle>
+  <v-information></v-information>
+  <v-tab></v-tab>
+</view>

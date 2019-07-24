@@ -39,7 +39,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 2,
+			"current": 4,
 			"list": [
 				{
 					"id": -1,
@@ -59,6 +59,20 @@
 					"id": -1,
 					"name": "pages/zhinengdaoyou/zhinengdaoyou",
 					"pathName": "pages/zhinengdaoyou/zhinengdaoyou",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/zhiyouyizhangtu/zhiyouyizhangtu",
+					"pathName": "pages/zhiyouyizhangtu/zhiyouyizhangtu",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/shoye/shoye",
+					"pathName": "pages/shoye/shoye",
 					"scene": null
 				}
 			]

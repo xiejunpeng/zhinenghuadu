@@ -1,2 +1,35 @@
-<!--pages/zhiyouyizhangtu/zhiyouyizhangtu.wxml-->
-<text>pages/zhiyouyizhangtu/zhiyouyizhangtu.wxml</text>
+<view>
+  <view class="main">
+  <image class="banner" src="images/banner.png"></image>
+    <view class="mune">
+      <view class="muneoption">
+        <image src="images/01.png "></image>
+        <text>简介</text>
+      </view>
+      <view class="muneoption">
+        <image src="images/02.png "></image>
+        <text>语颜</text>
+      </view>
+      <view class="muneoption">
+        <image src="images/03.png "></image>
+        <text>设置</text>
+      </view>
+    </view>
+    <view class="action ">
+      <image src="images/04.png "></image>
+    </view>
+    <view class="location ">
+      <image src="images/05.png "></image>
+      <image src="images/06.png "></image>
+    </view>
+  </view>
+  <view class="footer">
+    <view class="footerLeft">
+      <image src="images/07.png "></image>
+      <text>影点</text>
+    </view>
+    <view class="footerRight">
+      <image  src="images/09.png "></image>
+    </view>
+  </view>
+</view>

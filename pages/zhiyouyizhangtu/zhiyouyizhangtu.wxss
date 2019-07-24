@@ -1,1 +1,110 @@
-/* pages/zhiyouyizhangtu/zhiyouyizhangtu.wxss */
+/* 菜单部份 */
+
+.banner {
+  width: 100%;
+  height: 1012rpx;
+}
+
+.mune {
+  width: 70rpx;
+  height: 302rpx;
+  background: #fff;
+  text-align: center;
+  border-radius: 10rpx;
+  position: fixed;
+  top: 70rpx;
+  right: 20rpx;
+}
+
+.mune > .muneoption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mune > .muneoption > image {
+  width: 42rpx;
+  height: 42rpx;
+  padding: 10rpx 0;
+  display: inline-block;
+}
+
+.mune > .muneoption > text {
+  font-size: 19rpx;
+  line-height: 19rpx;
+  padding-bottom: 10rpx;
+  display: inline-block;
+}
+
+/* 加减部份 */
+
+.action>image {
+  width: 70rpx;
+  height: 154rpx;
+  border-radius: 10rpx;
+  position: fixed;
+  top: 660rpx;
+  right: 20rpx;
+}
+
+/* 反馈部份 */
+
+.location {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 800rpx;
+  left: 20rpx;
+}
+
+.location>image {
+  width: 70rpx;
+  height: 70rpx;
+}
+
+/* 底部 */
+
+.footer {
+  height: 90rpx;
+  width: 100%;
+  background: #fff;
+  position: fixed;
+  bottom: 10rpx;
+  display: flex;
+  padding: 0 36rpx;
+}
+
+.footerLeft {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 580rpx;
+}
+
+.footerLeft>image {
+  width: 42rpx;
+  height: 42rpx;
+  padding: 10rpx 0;
+  display: inline-block;
+}
+
+.footerLeft>text {
+  font-size: 19rpx;
+  line-height: 19rpx;
+  padding-bottom: 10rpx;
+  display: inline-block;
+}
+
+.footerRight {
+  border-left: 1px solid #ccc;
+  position: relative;
+}
+
+.footerRight>image {
+  width: 28rpx;
+  height: 15rpx;
+  display: inline-block;
+  margin-left: 26rpx;
+  position: absolute;
+  bottom: 50%;
+}
