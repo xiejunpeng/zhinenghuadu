@@ -1,2 +1,38 @@
-<!--pages/huaduhuodo/huaduhuodo.wxml-->
-<text>pages/huaduhuodo/huaduhuodo.wxml</text>
+<view class="huaduhuodo">
+  <view class="active">
+    <text class="activetext">暑期活动大放送，太平天国“小对兵即将...”</text>
+    <view calss="option">
+      <image class="optionimage" src="images/01.png"></image>
+      <text class="optiontext">
+      获取交易信息接口接口地址接口参数：无接口类型：GET返回数据格式：
+    </text>
+    </view>
+  </view>
+  <view class="active">
+    <text class="activetext">暑期活动大放送，太平天国“小对兵即将...”</text>
+    <view calss="option">
+      <image class="optionimage" src="images/02.png"></image>
+      <text class="optiontext">
+      获取交易信息接口接口地址接口参数：无接口类型：GET返回数据格式：
+    </text>
+    </view>
+  </view>
+  <view class="active">
+    <text class="activetext">暑期活动大放送，太平天国“小对兵即将...”</text>
+    <view calss="option">
+      <image class="optionimage" src="images/01.png"></image>
+      <text class="optiontext">
+      获取交易信息接口接口地址接口参数：无接口类型：GET返回数据格式：
+    </text>
+    </view>
+  </view>
+  <view class="active">
+    <text class="activetext">暑期活动大放送，太平天国“小对兵即将...”</text>
+    <view calss="option">
+      <image class="optionimage" src="images/02.png"></image>
+      <text class="optiontext">
+      获取交易信息接口接口地址接口参数：无接口类型：GET返回数据格式：
+    </text>
+    </view>
+  </view>
+</view>

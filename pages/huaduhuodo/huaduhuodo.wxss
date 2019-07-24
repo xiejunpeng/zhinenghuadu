@@ -1,1 +1,25 @@
-/* pages/huaduhuodo/huaduhuodo.wxss */
+.huaduhuodo{
+  padding:0 30rpx;
+}
+.active{
+  border-bottom: 1rpx solid #F6F6F6;
+  padding-bottom: 28rpx;
+}
+.activetext{
+  font-size: 34rpx;
+  line-height: 100rpx;
+  font-weight: bolder;
+}
+.optionimage{
+  width: 240rpx;
+  height: 178rpx;
+  margin-right: 20rpx;
+}
+.optiontext{
+  font-size: 26rpx;
+  line-height: 42rpx;
+  display: inline-block;
+  width: 417rpx;
+  position:relative;
+  top: -50rpx;
+}

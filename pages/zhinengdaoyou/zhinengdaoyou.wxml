@@ -1,2 +1,55 @@
-<!--pages/zhinengdaoyou/zhinengdaoyou.wxml-->
-<text>pages/zhinengdaoyou/zhinengdaoyou.wxml</text>
+<view class="zhinengdaoyou">
+  <view class="options">
+    <image class="optionsimage" src="images/banner01.png"></image>
+    <view class="title">
+      <text class="titletext">广州融创文旅城</text>
+      <image src="images/b01.png"></image>
+      <image src="images/b02.png"></image>
+    </view>
+    <view class="map">
+      <image src="images/map.png"></image>
+      <text class="mapa">花都区花城街道凤凰北路78号广州...</text>
+      <text class="mapb">距你36.9km</text>
+    </view>
+  </view>
+  <view class="options">
+    <image class="optionsimage" src="images/banner02.png"></image>
+    <view class="title">
+      <text class="titletext">广州融创文旅城</text>
+      <image src="images/b01.png"></image>
+      <image src="images/b02.png"></image>
+    </view>
+    <view class="map">
+      <image src="images/map.png"></image>
+      <text class="mapa">花都区花城街道凤凰北路78号广州...</text>
+      <text class="mapb">距你36.9km</text>
+    </view>
+  </view>
+  <view class="options">
+    <image class="optionsimage" src="images/banner02.png"></image>
+    <view class="title">
+      <text class="titletext">广州融创文旅城</text>
+      <image src="images/b01.png"></image>
+      <image src="images/b02.png"></image>
+    </view>
+    <view class="map">
+      <image src="images/map.png"></image>
+      <text class="mapa">花都区花城街道凤凰北路78号广州...</text>
+      <text class="mapb">距你36.9km</text>
+    </view>
+  </view>
+  <view class="options">
+    <image class="optionsimage" src="images/banner01.png"></image>
+    <view class="title">
+      <text class="titletext">广州融创文旅城</text>
+      <image src="images/b01.png"></image>
+      <image src="images/b02.png"></image>
+    </view>
+    <view class="map">
+      <image src="images/map.png"></image>
+      <text class="mapa">花都区花城街道凤凰北路78号广州...</text>
+      <text class="mapb">距你36.9km</text>
+    </view>
+  </view>
+  <text class="fooder">-没有更多数据-</text>
+</view>

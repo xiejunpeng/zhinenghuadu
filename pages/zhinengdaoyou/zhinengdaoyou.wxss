@@ -1,1 +1,61 @@
-/* pages/zhinengdaoyou/zhinengdaoyou.wxss */
+.zhinengdaoyou {
+  background: #f1f1f1;
+  padding: 30rpx;
+}
+
+.options {
+  padding: 20rpx;
+  background: #fff;
+  border-radius: 10rpx;
+  margin-bottom: 30rpx;
+}
+
+.optionsimage {
+  width: 650rpx;
+  height: 320rpx;
+}
+
+.titletext {
+  font-size: 30rpx;
+  line-height: 90rpx;
+  color: #4d4d4d;
+  width: 400rpx;
+  display: inline-block;
+}
+
+.title>image {
+  width: 104rpx;
+  height: 30rpx;
+  padding-left: 10rpx;
+  position: relative;
+  top: 10rpx;
+}
+
+.map>image {
+  width: 26rpx;
+  height: 32rpx;
+  padding: 0 5rpx;
+}
+
+.mapa {
+  font-size: 26rpx;
+  width: 478rpx;
+  overflow: hidden;
+  display: inline-block;
+  line-height: 36rpx;
+}
+
+.mapb {
+  font-size: 22rpx;
+  color: #969696;
+  position: relative;
+  top: -12rpx;
+}
+
+.fooder {
+  font-size: 30rpx;
+  line-height: 90rpx;
+  color: #969696;
+  display: block;
+  text-align: center;
+}
