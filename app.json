@@ -29,16 +29,16 @@
         "text": "智能导游"
       },
       {
-        "pagePath": "pages/huaduhuodo/huaduhuodo",
-        "selectedIconPath": "/images/tab/huaduhuodo@.jpg",
-        "iconPath": "/images/tab/huaduhuodo.jpg",
-        "text": "花都活动"
-      },
-      {
         "pagePath": "pages/zhiyouyizhangtu/zhiyouyizhangtu",
         "selectedIconPath": "/images/tab/zhiyouyizhangtu@.jpg",
         "iconPath": "/images/tab/zhiyouyizhangtu.jpg",
         "text": "智游一张图"
+      },
+      {
+        "pagePath": "pages/huaduhuodo/huaduhuodo",
+        "selectedIconPath": "/images/tab/huaduhuodo@.jpg",
+        "iconPath": "/images/tab/huaduhuodo.jpg",
+        "text": "花都活动"
       },
       {
         "pagePath": "pages/wode/wode",
