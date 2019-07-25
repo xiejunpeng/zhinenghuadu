@@ -4,6 +4,7 @@
   <v-nav></v-nav>
   <v-info></v-info>
   <v-iconTitle></v-iconTitle>
-  <v-information></v-information>
+  <v-travel></v-travel>
+  <v-fine></v-fine>
   <v-tab></v-tab>
 </view>

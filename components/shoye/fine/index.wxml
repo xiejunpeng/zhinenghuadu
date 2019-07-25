@@ -1,0 +1,22 @@
+<view class="fine">
+  <!-- 公共部份 -->
+  <view class="iconTitle">
+    <image class="iconTitle01image" src="../../../images/icon/01.jpg"></image>
+    <text class="iconTitleText01">花都美景</text>
+    <text class="iconTitleText02">花都网红折照胜地</text>
+    <image class="iconTitleright" src="../../../images/icon/iconright.jpg"></image>
+  </view>
+  <view class="fineswiper">
+    <swiper class="swiperbox"   previous-margin="40rpx" next-margin="40rpx"  circular="true" autoplay="true" interval="6000">
+      <swiper-item>
+        <image class="swiperimage" src="images/banner01.jpg"></image>
+      </swiper-item>
+      <swiper-item>
+        <image class="swiperimage" src="images/banner02.jpg"></image>
+      </swiper-item>
+      <swiper-item>
+        <image class="swiperimage" src="images/banner03.jpg"></image>
+      </swiper-item>
+    </swiper>
+  </view>
+</view>

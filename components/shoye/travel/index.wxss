@@ -1,0 +1,56 @@
+.iconTitle {
+  padding: 0 35rpx;
+}
+
+.iconTitle01image {
+  width: 17rpx;
+  height: 50rpx;
+  position: relative;
+}
+
+.iconTitleText01 {
+  font-size: 50rpx;
+  font-weight: bolder;
+  line-height: 150rpx;
+  color: #000;
+  margin: 0 29rpx 0 20rpx;
+}
+
+.iconTitleText02 {
+  font-size: 40rpx;
+  line-height: 150rpx;
+  color: #aaafb2;
+}
+
+.iconTitleright {
+  width: 22rpx;
+  height: 40rpx;
+  float: right;
+  padding-top: 50rpx;
+}
+.travelImages{
+  padding: 0 35rpx 30rpx 35rpx;
+}
+.travelImages>image{
+  margin-right: 30rpx;
+  height: 40rpx;
+}
+.travelImages>image:nth-child(1){
+  width: 120rpx;
+}
+.travelImages>image:nth-child(2){
+  width: 168rpx;
+}
+.travelImages>image:nth-child(3){
+  width: 168rpx;
+}
+.travelBanner{
+  padding-left: 35rpx;
+  width: 692rpx;
+  height: 316rpx;
+  position: relative;
+  bottom: -6rpx;
+}
+.travel{
+  border-bottom: 20rpx solid#f1f1f1;
+}

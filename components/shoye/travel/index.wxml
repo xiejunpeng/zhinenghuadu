@@ -1,0 +1,14 @@
+<view class="travel">
+  <!-- 公共部份 -->
+  <view class="iconTitle">
+    <image class="iconTitle01image" src="../../../images/icon/01.jpg"></image>
+    <text class="iconTitleText01">地图游花都</text>
+    <text class="iconTitleText02">花都智会导览图</text>
+  </view>
+  <view class="travelImages">
+    <image src="images/01.png"></image>
+    <image src="images/02.png"></image>
+    <image src="images/03.png"></image>
+  </view>
+  <image class="travelBanner" src="images/banner.png"></image>
+</view>

@@ -1,1 +1,103 @@
-/* components/shoye/tab/index.wxss */
+.tab {
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.center {
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.tabText {
+  padding: 0 35rpx;
+}
+
+.tabText>text {
+  line-height: 100rpx;
+  font-size: 34rpx;
+  margin-right: 72rpx;
+}
+
+.tabright {
+  width: 14rpx;
+  height: 24rpx;
+  float: right;
+  padding-top: 30rpx;
+  position: relative;
+  top: 10rpx;
+}
+
+/* tab选择高亮 */
+
+.list_item {
+  color: #cc527e;
+}
+
+.tabBanner {
+  width: 200rpx;
+  height: 180rpx;
+}
+
+.tabb {
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+}
+
+.tabb>image {
+  width: 64rpx;
+  height: 32rpx;
+  margin-right: 20rpx;
+}
+
+.tabtextactive {
+  font-size: 30rpx;
+  line-height: 44rpx;
+  padding-bottom: 10rpx;
+}
+
+.tabtext01 {
+  font-size: 22rpx;
+  display: block;
+  margin-bottom: 10rpx;
+  color: #f3bf7d;
+}
+
+.tabcenter {
+  padding: 30rpx 35rpx 0 35rpx;
+  display: flex;
+}
+
+.tabtext02 {
+  font-size: 22rpx;
+  color: #969696;
+  position: relative;
+}
+
+.tabRight {
+  margin-left: 20rpx;
+}
+
+.tabmap {
+  padding: 30rpx 35rpx 0 35rpx;
+}
+
+.tabmap>image {
+  width: 26rpx;
+  height: 32rpx;
+  padding: 0 5rpx;
+  position: relative;
+  top: -32rpx;
+}
+
+.tabmapa {
+  font-size: 26rpx;
+  width: 478rpx;
+  overflow: hidden;
+  display: inline-block;
+  line-height: 36rpx;
+  padding-bottom: 30rpx;
+}
+.swiper-tab-item{
+    color:#808080;
+}
+.active{
+    color:#CC527E;
+}

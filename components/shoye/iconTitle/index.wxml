@@ -1,4 +1,4 @@
-<view>
+<view class="iconTitlebox">
   <!-- 公共部份 -->
   <view class="iconTitle">
     <image class="iconTitle01image" src="images/01.jpg"></image>

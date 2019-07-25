@@ -5,7 +5,8 @@
     "v-nav": "/components/shoye/nav/index",
     "v-info": "/components/shoye/info/index",
     "v-iconTitle": "/components/shoye/iconTitle/index",
-    "v-information": "/components/shoye/information/index",
+    "v-travel": "/components/shoye/travel/index",
+    "v-fine": "/components/shoye/fine/index",
     "v-tab": "/components/shoye/tab/index"
   }
 }
