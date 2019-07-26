@@ -1,4 +1,4 @@
-// pages/huaduhuodo/huaduhuodo.js
+// pages/detail/detail.js
 Page({
 
   /**
@@ -13,14 +13,10 @@ Page({
    */
   onLoad: function (options) {
     wx.setNavigationBarTitle({
-      title: "花都活动"
+      title:"活动详情"
     })
   },
-  onlink(){
-    wx.navigateTo({
-      url: '/pages/detail/detail',
-    })
-  },
+
   /**
    * 生命周期函数--监听页面初次渲染完成
    */

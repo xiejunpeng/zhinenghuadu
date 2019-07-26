@@ -1,0 +1,13 @@
+<view class="box">
+  <view class="detail">
+    <text class="activetext">暑期活动大放送，太平天国“小对兵即将...</text>
+    <text class="optiontext">近日，韩磊在家乡内蒙古的克什克腾旗参加中国北疆草原音乐节，演唱结束后不慎摔倒，他顺势一个后滚翻起身，敏捷的临场反应又让网友议论纷纷。</text>
+    <image src="images/01.png"></image>
+    <text class="optiontext">近日，韩磊在家乡内蒙古的克什克腾旗参加中国北疆草原音乐节，演唱结束后不慎摔倒，他顺势一个后滚翻起身，敏捷的临场反应又让网友议论纷纷。</text>
+    <image src="images/02.png"></image>
+    <text class="optiontext">近日，韩磊在家乡内蒙古的克什克腾旗参加中国北疆草原音乐节，演唱结束后不慎摔倒，他顺势一个后滚翻起身，敏捷的临场反应又让网友议论纷纷。</text>
+    <image src="images/01.png"></image>
+    <text class="optiontext">近日，韩磊在家乡内蒙古的克什克腾旗参加中国北疆草原音乐节，演唱结束后不慎摔倒，他顺势一个后滚翻起身，敏捷的临场反应又让网友议论纷纷。</text>
+    <image src="images/02.png"></image>
+  </view>
+</view>

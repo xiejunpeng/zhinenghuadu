@@ -1,0 +1,48 @@
+.box {
+  background: #f2f2f2;
+  padding: 30rpx;
+  height: 1146rpx;
+  /* overflow: hidden; */
+}
+
+/* 隐藏滚动条的作法 */
+
+.detail {
+  text-align: center;
+  background: #fff;
+  border-radius: 10rpx;
+  height: 1146rpx;
+  overflow: auto;
+}
+
+/* 去掉小程序的滚动条 */
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+
+.active {
+  border-bottom: 1rpx solid #f6f6f6;
+  padding-bottom: 28rpx;
+}
+
+.activetext {
+  font-size: 34rpx;
+  line-height: 100rpx;
+  font-weight: bolder;
+}
+
+.image {
+  width: 650rpx;
+  height: 426rpx;
+}
+
+.optiontext {
+  text-align: left;
+  font-size: 26rpx;
+  line-height: 60rpx;
+  display: inline-block;
+  width: 630rpx;
+  position: relative;
+}

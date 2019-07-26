@@ -4,12 +4,13 @@
     "pages/zhinengdaoyou/zhinengdaoyou",
     "pages/zhiyouyizhangtu/zhiyouyizhangtu",
     "pages/huaduhuodo/huaduhuodo",
-    "pages/wode/wode"
+    "pages/wode/wode",
+    "pages/detail/detail"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#CF5181",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "white"
   },
   "tabBar": {
     "selectedColor": "#CF5181",

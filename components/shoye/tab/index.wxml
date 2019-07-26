@@ -7,90 +7,71 @@
         <text class="swiper-tab-item {{currentTab==2?'active':''}}" data-current="2" bindtap="clickTab">乡村旅游</text>
         <image class="tabright" src="../../../images/icon/iconright.jpg"></image>
       </view>
-      <!-- <view class="tabText">
-        <text>自然风光</text>
-        <text>自然风光</text>
-        <text>自然风光</text>
-        <image class="tabright" src="../../../images/icon/iconright.jpg"></image>
-      </view> -->
     </view>
-    <swiper current="{{currentTab}}" duration="300"  bindchange="swiperTab">
-    <swiper-item><view class="center">
-      <view class="tabcenter">
-        <image class="tabBanner" src="images/01.jpg"></image>
-        <view class="tabRight">
-          <text class="tabtextactive">九龙湖旅游度假区</text>
-          <view class="tabb">
-            <image src="images/b01.jpg"></image>
-            <image src="images/b02.jpg"></image>
+    <swiper  current="{{currentTab}}" duration="300" bind:change="swiperTab">
+      <swiper-item>
+        <view class="center">
+          <view class="tabcenter">
+            <image class="tabBanner" src="images/01.jpg"></image>
+            <view class="tabRight">
+              <text class="tabtextactive">九龙湖旅游度假区</text>
+              <view class="tabb">
+                <image src="images/b01.jpg"></image>
+                <image src="images/b02.jpg"></image>
+              </view>
+              <text class="tabtext01">碧水仙踪，养心天堂</text>
+              <text class="tabtext02">距你36.9km</text>
+            </view>
           </view>
-          <text class="tabtext01">碧水仙踪，养心天堂</text>
-          <text class="tabtext02">距你36.9km</text>
-        </view>
-      </view>
-      <view class="tabmap">
-        <image src="images/map.jpg"></image>
-        <text class="tabmapa">花都区花城街道凤凰北路78号广州</text>
-        <image class="tabright" src="../../../images/icon/iconright.jpg" style="width: 14rpx;height: 24rpx;float: right;padding-top: 30rpx; position: relative;top:-20rpx;"></image>
-      </view>
-    </view></swiper-item>
-    <swiper-item><view class="center">
-      <view class="tabcenter">
-        <image class="tabBanner" src="images/03.jpg"></image>
-        <view class="tabRight">
-          <text class="tabtextactive">九龙湖旅游度假区</text>
-          <view class="tabb">
-            <image src="images/b01.jpg"></image>
-            <image src="images/b02.jpg"></image>
+          <view class="tabmap">
+            <image src="images/map.jpg"></image>
+            <text class="tabmapa">花都区花城街道凤凰北路78号广州</text>
+            <image class="tabright" src="../../../images/icon/iconright.jpg" style="width: 14rpx;height: 24rpx;float: right;padding-top: 30rpx; position: relative;top:-20rpx;"></image>
           </view>
-          <text class="tabtext01">碧水仙踪，养心天堂</text>
-          <text class="tabtext02">距你36.9km</text>
         </view>
-      </view>
-      <view class="tabmap">
-        <image src="images/map.jpg"></image>
-        <text class="tabmapa">花都区花城街道凤凰北路78号广州</text>
-        <image class="tabright" src="../../../images/icon/iconright.jpg" style="width: 14rpx;height: 24rpx;float: right;padding-top: 30rpx; position: relative;top:-20rpx;"></image>
-      </view>
-    </view></swiper-item>
-    <swiper-item><view class="center">
-      <view class="tabcenter">
-        <image class="tabBanner" src="images/02.jpg"></image>
-        <view class="tabRight">
-          <text class="tabtextactive">九龙湖旅游度假区</text>
-          <view class="tabb">
-            <image src="images/b01.jpg"></image>
-            <image src="images/b02.jpg"></image>
+      </swiper-item>
+      <swiper-item>
+        <view class="center">
+          <view class="tabcenter">
+            <image class="tabBanner" src="images/03.jpg"></image>
+            <view class="tabRight">
+              <text class="tabtextactive">九龙湖旅游度假区</text>
+              <view class="tabb">
+                <image src="images/b01.jpg"></image>
+                <image src="images/b02.jpg"></image>
+              </view>
+              <text class="tabtext01">碧水仙踪，养心天堂</text>
+              <text class="tabtext02">距你36.9km</text>
+            </view>
           </view>
-          <text class="tabtext01">碧水仙踪，养心天堂</text>
-          <text class="tabtext02">距你36.9km</text>
-        </view>
-      </view>
-      <view class="tabmap">
-        <image src="images/map.jpg"></image>
-        <text class="tabmapa">花都区花城街道凤凰北路78号广州</text>
-        <image class="tabright" src="../../../images/icon/iconright.jpg" style="width: 14rpx;height: 24rpx;float: right;padding-top: 30rpx; position: relative;top:-20rpx;"></image>
-      </view>
-    </view></swiper-item>
-</swiper>
-    <!-- <view class="center">
-      <view class="tabcenter">
-        <image class="tabBanner" src="images/02.jpg"></image>
-        <view class="tabRight">
-          <text class="tabtextactive">九龙湖旅游度假区</text>
-          <view class="tabb">
-            <image src="images/b01.jpg"></image>
-            <image src="images/b02.jpg"></image>
+          <view class="tabmap">
+            <image src="images/map.jpg"></image>
+            <text class="tabmapa">花都区花城街道凤凰北路78号广州</text>
+            <image class="tabright" src="../../../images/icon/iconright.jpg" style="width: 14rpx;height: 24rpx;float: right;padding-top: 30rpx; position: relative;top:-20rpx;"></image>
           </view>
-          <text class="tabtext01">碧水仙踪，养心天堂</text>
-          <text class="tabtext02">距你36.9km</text>
         </view>
-      </view>
-      <view class="tabmap">
-        <image src="images/map.jpg"></image>
-        <text class="tabmapa">花都区花城街道凤凰北路78号广州</text>
-        <image class="tabright" src="../../../images/icon/iconright.jpg" style="width: 14rpx;height: 24rpx;float: right;padding-top: 30rpx; position: relative;top:-20rpx;"></image>
-      </view>
-    </view> -->
+      </swiper-item>
+      <swiper-item>
+        <view class="center">
+          <view class="tabcenter">
+            <image class="tabBanner" src="images/02.jpg"></image>
+            <view class="tabRight">
+              <text class="tabtextactive">九龙湖旅游度假区</text>
+              <view class="tabb">
+                <image src="images/b01.jpg"></image>
+                <image src="images/b02.jpg"></image>
+              </view>
+              <text class="tabtext01">碧水仙踪，养心天堂</text>
+              <text class="tabtext02">距你36.9km</text>
+            </view>
+          </view>
+          <view class="tabmap">
+            <image src="images/map.jpg"></image>
+            <text class="tabmapa">花都区花城街道凤凰北路78号广州</text>
+            <image class="tabright" src="../../../images/icon/iconright.jpg" style="width: 14rpx;height: 24rpx;float: right;padding-top: 30rpx; position: relative;top:-20rpx;"></image>
+          </view>
+        </view>
+      </swiper-item>
+    </swiper>
   </view>
 </view>
